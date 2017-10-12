@@ -10,4 +10,22 @@
     <string name="optionStudent">学生</string>
     <string name="optionTeacher">教职工</string>
     <string name="logoDescription">Logo</string>
+
+    <string name="dialogTitle">上传头像</string>
+    <string name="dialogItem1">拍摄</string>
+    <string name="dialogItem2">从相册选择</string>
+    <string name="dialogButton">取消</string>
+    <string name="dialogItem1Msg">您选择了[拍摄]</string>
+    <string name="dialogItem2Msg">您选择了[从相册选择]</string>
+    <string name="dialogButtonMsg">您选择了[取消]</string>
+
+    <string name="onChooseMsg">您选择了</string>
+    <string name="snackbarButton">确认</string>
+    <string name="onSnackbarClickMsg">Snackbar的确定按钮被点击了</string>
+
+    <string name="errormsgEmptyID">学号不能为空</string>
+    <string name="errormsgEmptyPassword">密码不能为空</string>
+    <string name="msgWrongInfo">学号或密码错误</string>
+    <string name="msgRightInfo">登录成功</string>
+    <string name="msgRegisterNone">注册功能尚未启用</string>
 </resources>
